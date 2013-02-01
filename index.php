@@ -22,6 +22,7 @@
 				<div class="span8">
 					<h3 class="post-title">Watching Our Waterways During and After Natural Disasters</h3>
 					​<p>Hurricane Sandy wreaked havoc on waterways in large parts of the U.S. Xylem instruments helped environmental and public safety agencies assess the immediate damage – and are still being used to measure the health of impacted rivers, bays, streams and other water sources.</p>
+					<a href="#" title="">Read the case study &rsaquo;</a>
 				</div><!-- .span8 -->
 			</div><!-- .row -->
 		</div><!-- .span12 -->
@@ -33,6 +34,7 @@
 				<div class="span8">
 					<h3 class="post-title">Watching Our Waterways During and After Natural Disasters</h3>
 					​<p>Hurricane Sandy wreaked havoc on waterways in large parts of the U.S. Xylem instruments helped environmental and public safety agencies assess the immediate damage – and are still being used to measure the health of impacted rivers, bays, streams and other water sources.</p>
+					<a href="#" title="">Read the case study &rsaquo;</a>
 				</div><!-- .span8 -->
 			</div><!-- .row -->
 		</div><!-- .span12 -->
@@ -44,6 +46,7 @@
 				<div class="span8">
 					<h3 class="post-title">Watching Our Waterways During and After Natural Disasters</h3>
 					​<p>Hurricane Sandy wreaked havoc on waterways in large parts of the U.S. Xylem instruments helped environmental and public safety agencies assess the immediate damage – and are still being used to measure the health of impacted rivers, bays, streams and other water sources.</p>
+					<a href="#" title="">Read the case study &rsaquo;</a>
 				</div><!-- .span8 -->
 			</div><!-- .row -->
 		</div><!-- .span12 -->
